@@ -1,54 +1,77 @@
 # GRC Consulting Portfolio
 
-Welcome to my **Governance, Risk, and Compliance (GRC) Consulting Portfolio**.  
-This repository is both a **learning record** and a **professional showcase** of GRC skills, frameworks, and practical exercises.  
+This repository showcases my work in **Governance, Risk, and Compliance (GRC)**.  
+It highlights my ability to analyze frameworks, assess risks, design policies, and apply GRC concepts to real-world scenarios.  
 
 ---
 
-## 🎯 Objectives
+## 👤 About Me
 
-- Build a structured knowledge base of GRC frameworks.  
-- Practice applying GRC concepts to **case studies** and **policies**.  
-- Create a portfolio that demonstrates **consulting-level expertise**.  
-
----
-
-## 📂 Contents
-
-- **Frameworks** → Notes & mappings of standards (ISO 27001, SOC 2, NIST, APRA CPS 234).  
-- **Risk** → Risk registers, threat models, and assessment exercises.  
-- **Compliance** → Policy drafts, audit checklists, and gap analyses.  
-- **Case Studies** → Analysis of real-world incidents and regulatory responses.  
-- **Learning Notes** → Week-by-week study notes and reflections.  
-- **Portfolio** → Curated deliverables suitable for job interviews or consulting demos.  
+I am building expertise as a **GRC Consultant**, combining a background in technology and security with structured learning in compliance and governance.  
+This portfolio demonstrates my ability to translate frameworks into actionable policies and practical consulting outputs.  
 
 ---
 
-## 🛠️ Tools & Workflow
+## 🏗️ Portfolio Highlights
 
-- **Obsidian** → Note taking & personal knowledge base.  
-- **GitHub** → Version control & public portfolio.  
-- **Issues & Project Boards** → Track weekly learning tasks and consulting deliverables.  
+- **Framework Analysis**  
+  Mappings of ISO 27001, SOC 2, NIST CSF, and APRA CPS 234, with commentary on applicability across regions (Australia & US).  
+
+- **Risk Assessment**  
+  Example risk registers, threat models, and assessment exercises tailored to SMEs and SaaS environments.  
+
+- **Compliance Policies**  
+  Drafted security and compliance policies (e.g. Remote Work, Access Control, Incident Response) aligned with recognized standards.  
+
+- **Case Study Analysis**  
+  Documented lessons from major regulatory incidents and audit outcomes, with recommendations for prevention and compliance.  
+
+- **Learning Reflections**  
+  Week-by-week notes showing progression from framework understanding to applied consulting deliverables.  
 
 ---
 
-## 📌 Example: Week 1 Learning Plan
+## 📂 Repository Contents
 
-- Review ISO 27001:2022 Clauses 4–6  
-- Summarize 2 case studies of ISO 27001 audits  
-- Draft a simple **Remote Work Security Policy**  
-- Write reflection in `learning-notes/week1.md`  
+- `frameworks/` → Standards mappings & notes  
+- `risk/` → Risk registers & assessments  
+- `compliance/` → Policies, checklists, gap analyses  
+- `case-studies/` → Regulatory & incident analysis  
+- `learning-notes/` → Study logs and reflections  
+- `portfolio/` → Final curated deliverables for clients or employers  
 
 ---
 
-## 🔮 Next Steps
+## 🎯 Consulting Capabilities Demonstrated
 
-- Expand to include APRA CPS 234 and SOC 2 Type II mappings.  
-- Build a library of **reusable policies and templates**.  
-- Share open-source GRC learning resources for students and practitioners.  
+- Translating regulations into **practical security controls**  
+- Building **risk management processes** for organizations  
+- Drafting and reviewing **security & compliance policies**  
+- Supporting **audit preparation** (ISO, SOC 2, APRA, HIPAA)  
+- Explaining complex GRC concepts to **non-technical stakeholders**  
+
+---
+
+## 📌 Current Focus
+
+- Deep dive into ISO 27001:2022 clauses and controls  
+- Drafting **Remote Work Security Policy** and **Access Control Policy**  
+- Building a reusable **GRC documentation toolkit**  
+
+---
+
+## 🔮 Future Development
+
+- Expand mappings for APRA CPS 234 (Australia) and SOC 2 Type II (US)  
+- Add **audit readiness playbooks** for SMEs and SaaS startups  
+- Create open-source **policy templates** for the GRC community  
 
 ---
 
 ## 📬 Contact
 
-If you’d like to discuss GRC, security, or collaboration opportunities, feel free to connect via GitHub Issues or LinkedIn.
+Interested in collaboration, consulting, or knowledge exchange?  
+- Reach out via **GitHub Issues**  
+- Or connect with me on **LinkedIn**  
+
+---
