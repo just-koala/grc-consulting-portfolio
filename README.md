@@ -1,13 +1,13 @@
 # GRC Consulting Portfolio
 
 This repository showcases my work in **Governance, Risk, and Compliance (GRC)**.  
-It highlights my ability to analyze frameworks, assess risks, design policies, and apply GRC concepts to real-world scenarios.  
+It highlights my ability to analyse frameworks, assess risks, design policies, and apply GRC concepts to real-world scenarios.  
 
 ---
 
 ## 👤 About Me
 
-I am building expertise as a **GRC Consultant**, combining a background in technology and security with structured learning in compliance and governance.  
+I am building expertise as a **Cybersecurity Consultant (GRC focus)**, combining a background in technology and security with structured learning in compliance and governance.  
 This portfolio demonstrates my ability to translate frameworks into actionable policies and practical consulting outputs.  
 
 ---
@@ -15,7 +15,7 @@ This portfolio demonstrates my ability to translate frameworks into actionable p
 ## 🏗️ Portfolio Highlights
 
 - **Framework Analysis**  
-  Mappings of ISO 27001, SOC 2, NIST CSF, and APRA CPS 234, with commentary on applicability across regions (Australia & US).  
+  Mappings of ISO 27001, SOC 2, NIST CSF, and APRA CPS 234, with commentary on applicability across regions (Worldwide).  
 
 - **Risk Assessment**  
   Example risk registers, threat models, and assessment exercises tailored to SMEs and SaaS environments.  
