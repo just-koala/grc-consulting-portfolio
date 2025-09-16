@@ -1,30 +1,31 @@
-# GRC Consulting Portfolio
+# GRC Consulting Portfolio 🌐
 
 This repository showcases my work in **Governance, Risk, and Compliance (GRC)**.  
-It highlights my ability to analyse frameworks, assess risks, design policies, and apply GRC concepts to real-world scenarios.  
+It highlights my ability to analyse frameworks, assess risks, design policies, and apply GRC concepts to real-world scenarios across global contexts.  
 
 ---
 
 ## 👤 About Me
 
-I am building expertise as a **Cybersecurity Consultant (GRC focus)**, combining a background in technology and security with structured learning in compliance and governance.  
-This portfolio demonstrates my ability to translate frameworks into actionable policies and practical consulting outputs.  
+I am building expertise as a Cybersecurity Consultant (**GRC focus**) with a background in technology and security.  
+
+This portfolio demonstrates my ability to translate global frameworks into actionable policies and practical consulting outputs.  
 
 ---
 
 ## 🏗️ Portfolio Highlights
 
 - **Framework Analysis**  
-  Mappings of ISO 27001, SOC 2, NIST CSF, and APRA CPS 234, with commentary on applicability across regions (Worldwide).  
+  Comparative mappings of international standards: ISO 27001, SOC 2, NIST CSF, GDPR (EU), HIPAA (US), APRA CPS 234 (AU), LGPD (Brazil), and PDPA (Singapore).  
 
 - **Risk Assessment**  
-  Example risk registers, threat models, and assessment exercises tailored to SMEs and SaaS environments.  
+  Example risk registers, threat models, and assessment exercises for SMEs, SaaS, and multinational organisations.  
 
 - **Compliance Policies**  
-  Drafted security and compliance policies (e.g. Remote Work, Access Control, Incident Response) aligned with recognised standards.  
+  Drafted security and compliance policies (e.g. Remote Work, Access Control, Incident Response) aligned with multiple regulatory requirements.  
 
 - **Case Study Analysis**  
-  Documented lessons from major regulatory incidents and audit outcomes, with recommendations for prevention and compliance.  
+  Documented lessons from global regulatory incidents and audit outcomes, with recommendations for prevention and compliance.  
 
 - **Learning Reflections**  
   Week-by-week notes showing progression from framework understanding to applied consulting deliverables.  
@@ -44,10 +45,10 @@ This portfolio demonstrates my ability to translate frameworks into actionable p
 
 ## 🎯 Consulting Capabilities Demonstrated
 
-- Translating regulations into **practical security controls**  
-- Building **risk management processes** for organisations  
+- Translating international regulations into **practical security controls**  
+- Building **risk management processes** for global organisations  
 - Drafting and reviewing **security & compliance policies**  
-- Supporting **audit preparation** (ISO, SOC 2, APRA, HIPAA)  
+- Supporting **audit preparation** (ISO, SOC 2, APRA, GDPR, HIPAA, etc.)  
 - Explaining complex GRC concepts to **non-technical stakeholders**  
 
 ---
@@ -56,7 +57,7 @@ This portfolio demonstrates my ability to translate frameworks into actionable p
 
 - Deep dive into ISO 27001:2022 clauses and controls  
 - Drafting **Remote Work Security Policy** and **Access Control Policy**  
-- Building a reusable **GRC documentation toolkit**  
+- Building a reusable **global GRC documentation toolkit**  
 
 ---
 
@@ -65,13 +66,13 @@ This portfolio demonstrates my ability to translate frameworks into actionable p
 As this portfolio grows, I aim to expand its scope globally:
 
 - **Framework & Regulation Mappings**  
-  Extend coverage to key international standards, including ISO 27001, SOC 2, NIST CSF, GDPR (EU), HIPAA (US), APRA CPS 234 (AU), LGPD (Brazil), and PDPA (Singapore).
+  Extend coverage to key international standards, including ISO 27001, SOC 2, NIST CSF, GDPR (EU), HIPAA (US), APRA CPS 234 (AU), LGPD (Brazil), and PDPA (Singapore).  
 
 - **Audit Readiness Playbooks**  
-  Build reusable checklists and guides to help organisations prepare for global audits and certifications.  
+  Build reusable checklists and guides to help organisations prepare for audits and certifications across multiple jurisdictions.  
 
 - **Policy & Control Templates**  
-  Develop a library of adaptable security and compliance policies that can be localised for different jurisdictions.  
+  Develop a library of adaptable security and compliance policies that can be localised for different regulatory environments.  
 
 - **Cross-Jurisdictional Comparisons**  
   Analyse overlaps and gaps between global frameworks (e.g., ISO 27001 vs. SOC 2, GDPR vs. CCPA) to support multinational organisations.  
@@ -86,5 +87,3 @@ As this portfolio grows, I aim to expand its scope globally:
 Interested in collaboration, consulting, or knowledge exchange?  
 - Reach out via **GitHub Issues**  
 - Or connect with me on **LinkedIn**  
-
----
